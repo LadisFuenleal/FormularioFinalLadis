@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MyFormularioLadisFinal</string>
+    <string name="ContraseñaText">Contraseña</string>
+    <string name="UsuarioEditText">Ingresa tu Usuario </string>
+    <string name="UsuarioText">Usuario</string>
+    <string name="label4">Inicie su sesion</string>
+    <string name="labelContra">Ingresa tu Contraseña</string>
+    <string name="reigstrarseboton">Registrarme</string>
+    <string name="botonOlvideContra">Olvide contraseña</string>
+    <string name="botonIniciarSesion">Iniciar Sesion</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="EmailTexto">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="RegistrarseTitulo">Registrarse</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Usuario o Email Incorrecto</string>
+    <string name="invalid_password">La contraseña debe de ser mayor a 5 caractéres</string>
+    <string name="login_failed">"Inicio de Sesion Fallido"</string>
+    <string name="corr">Correo</string>
+    <string name="Lol">Te gusta LoL</string>
+    <string name="siguiente1">Continuar</string>
+    <string name="EmailEditText">Ingrese su Email</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="genero">Género</string>
+    <string name="parito">¿Quieres paro?</string>
+    <string name="num">Número</string>
+    <string name="fec">Fecha</string>
+    <string name="eda">Edad</string>
+    <string name="pol">¿Eres politécnico?</string>
+    <string name="tarea">Presiona aqui solo es para mi tarea JASKJASKA</string>
+    <string name="emp">Arcontec</string>
+    <string name="res">Recuperar</string>
+    <string name="mu">Menu</string>
+    <string name="main">mainKaisa?</string>
+    <string name="guardar">Guardar</string>
+
+
+</resources>
